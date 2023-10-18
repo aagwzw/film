@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Peliculas", Pelicula prueba
+https://s1.vtube.network/hls/,x5s43trsofyki6cgaok4tivlmnf5nrq72wmdcoyqdqa5xawt6japcm6szegq,.urlset/master.m3u8
+#EXTINF:-1 group-title="El Cuerpo en Llamas", El Cuerpo en LLamas 1x01
+https://str8.vtube.network/hls/,x5s46ooqn5yki6cgao54tm5qmqhl4ccy7ls25mcb4kpk3vsinjhn5nrjpwaa,.urlset/master.m3u8
